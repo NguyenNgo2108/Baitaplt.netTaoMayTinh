@@ -1,0 +1,16 @@
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\bin\Debug\net8.0-windows\FormMayTinh.exe
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\bin\Debug\net8.0-windows\FormMayTinh.deps.json
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\bin\Debug\net8.0-windows\FormMayTinh.runtimeconfig.json
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\bin\Debug\net8.0-windows\FormMayTinh.dll
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\bin\Debug\net8.0-windows\FormMayTinh.pdb
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.Form1.resources
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.csproj.GenerateResource.cache
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.AssemblyInfoInputs.cache
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.AssemblyInfo.cs
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.dll
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\refint\FormMayTinh.dll
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.pdb
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\FormMayTinh.genruntimeconfig.cache
+C:\Users\nemol\source\repos\FormMayTinh\FormMayTinh\obj\Debug\net8.0-windows\ref\FormMayTinh.dll
